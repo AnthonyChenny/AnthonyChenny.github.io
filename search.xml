@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[test_my_site]]></title>
     <url>%2F2019%2F02%2F14%2Ftest-my-site%2F</url>
-    <content type="text"></content>
+    <content type="text"><![CDATA[]]></content>
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>
