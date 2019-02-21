@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Datagrip快捷键总结]]></title>
+    <url>%2F2019%2F02%2F21%2FDatagrip%E5%BF%AB%E6%8D%B7%E9%94%AE%E6%80%BB%E7%BB%93%2F</url>
+    <content type="text"><![CDATA[Data Grip常用的快捷键总结: 管理数据库连接：Ctrl+Alt+Shift+S 文件视图窗口：Alt+2 进入一个文件：Ctrl+Shift+N 打开最近的文件：Ctrl+E 导航栏：Alt+Home 全局搜索：双击Shift Ctrl+Enter：执行选中的SQL语句 Ctrl+Shift+左右箭头：调整列宽度（选中行，可以调整所有列的宽度） Ctrl+Y：删除行 Ctrl+Delete：删除结尾单词 Ctrl+Backspace：删除开头单词 Ctrl+D：选择复制行 Ctrl+N：进入某个表（按name） Ctrl+G：进入行或列 Shift+f6: 变量重命名（弹出重命名对话框） Ctrl+Shift+U: 大小写自动转换（字段名或者表名） Ctrl+Shift+Enter: sql格式化（选中需要格式化的代码） *通配符自动展开：查询的时候我们会使用select *查询所有列，这是不太好的习惯，datagrip能快速展开列。光标定位到*后面，按下Alt+Enter快捷键]]></content>
+      <tags>
+        <tag>Datagrip</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[This blog is used for test!]]></title>
     <url>%2F2019%2F02%2F14%2FThis%20blog%20is%20used%20for%20test%2F</url>
     <content type="text"><![CDATA[这篇博客主要用于一些插件和一些代码的测试 网易云音乐测试 内置标签测试 文本居中测试使用方式: HTML方式：使用这种方式时，给 img 添加属性 class=”blockquote-center” 即可。 标签方式：使用 centerquote 或者 简写 cq。123456789&lt;!-- HTML方式: 直接在 Markdown 文件中编写 HTML 来调用 --&gt;&lt;!-- 其中 class=&quot;blockquote-center&quot; 是必须的 --&gt;&lt;blockquote class=&quot;blockquote-center&quot;&gt;blah blah blah&lt;/blockquote&gt;&lt;!-- 标签 方式，要求版本在0.4.5或以上 --&gt;&#123;% centerquote %&#125;blah blah blah&#123;% endcenterquote %&#125;&lt;!-- 标签别名 --&gt;&#123;% cq %&#125; blah blah blah &#123;% endcq %&#125; html测试标签测试 标签别名]]></content>

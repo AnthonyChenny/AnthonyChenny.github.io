@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-02-21T03:30:52.000Z</updated>
+  <updated>2019-02-21T05:38:13.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Datagrip快捷键总结</title>
+    <link href="http://yoursite.com/2019/02/21/Datagrip%E5%BF%AB%E6%8D%B7%E9%94%AE%E6%80%BB%E7%BB%93/"/>
+    <id>http://yoursite.com/2019/02/21/Datagrip快捷键总结/</id>
+    <published>2019-02-21T05:38:13.000Z</published>
+    <updated>2019-02-21T05:38:13.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Data Grip常用的快捷键总结:&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="Datagrip" scheme="http://yoursite.com/tags/Datagrip/"/>
+    
+  </entry>
   
   <entry>
     <title>This blog is used for test!</title>
