@@ -25,13 +25,8 @@
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h2 id=&quot;redis的安装&quot;&gt;&lt;a href=&quot;#redis的安装&quot; class=&quot;headerlink&quot; title=&quot;redis的安装&quot;&gt;&lt;/a&gt;redis的安装&lt;/h2&gt;&lt;h3 id=&quot;安装过程记录&quot;&gt;&lt;a href=&quot;#安装过程记录&quot;
-        
-      
+      &lt;h2 id=&quot;redis的安装&quot;&gt;&lt;a href=&quot;#redis的安装&quot; class=&quot;headerlink&quot; title=&quot;redis的安装&quot;&gt;&lt;/a&gt;redis的安装&lt;/h2&gt;&lt;h3 id=&quot;安装过程记录&quot;&gt;&lt;a href=&quot;#安装过程记录&quot; class=&quot;headerlink&quot; title=&quot;安装过程记录&quot;&gt;&lt;/a&gt;安装过程记录&lt;/h3&gt;&lt;p&gt;gcc的安装&lt;br&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;yum install gcc-c++&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;执行下面的指令,查看gcc版本&lt;br&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;gcc -v&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
     
     </summary>
     
